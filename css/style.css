@@ -32,7 +32,7 @@
 .rounded-circle{
     height: 25%;
     left: 30%;
-    position: relative;
+    position: absolute;
 }
 
 .red{
